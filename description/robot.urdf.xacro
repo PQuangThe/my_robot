@@ -3,5 +3,9 @@
 
     <!-- Example link -->
     <link name="base_link"></link>
+    
+    <link name="h"></link>
+
+    <link name="j"></link>
 
 </robot>
